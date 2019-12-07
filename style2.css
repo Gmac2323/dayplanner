@@ -1,0 +1,31 @@
+#dailyPlanner {
+background-color: red;
+
+}
+.form-control {
+background-color: white;
+}
+
+.currentMoment {
+position: right 
+
+
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+  }
+
+body {
+background-color: blue;
+
+}
+header {
+background-color: red;
+
+}
+footer {
+background-color: blue;
+
+}
